@@ -27,7 +27,7 @@ code "simulate_fault_and_colluvial"
 
 The text data shows the OSL-depth actually measured.
 
-In addition, the binx files named "Exposure_and_burial_dating_binx_files", which were used for the exposure and burial dating of the bedrock fault plane samples from the western section of the Huashan Fault, have also been uploaded. This is accompanied by an Excel file named "Relationship between Slices No. and Binx Position". This file is used to determine the correspondence between the rock slice numbers and their respective positions in the binx files, and it also contains the resultant processed data.
+In addition, the binx files named "Exposure_and_Burial_Dating_Binx_Files", which were used for the exposure and burial dating of the bedrock fault plane samples from the western section of the Huashan Fault, have also been uploaded. This is accompanied by an Excel file named "Relationship between Slices No. and Binx Position". This file is used to determine the correspondence between the rock slice numbers and their respective positions in the binx files, and it also contains the resultant processed data.
 
 
 Please contact me for any informations: luomingearth@163.com
