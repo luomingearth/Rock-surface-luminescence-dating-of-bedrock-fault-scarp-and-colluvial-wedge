@@ -1,8 +1,7 @@
 # Rock-surface-luminescence-dating-of-bedrock-fault-scarp-and-colluvial-wedge
-Reconstructing the activity history of the fault and the exposure/burial history of the colluvial wedge.
 Dears users,
 
-Here the explanation to use these matlab codes.
+Here the explanation to use these matlab codes in the code files named "Code_Huashan_Fault".
 
 code : "fitting_no_erosion_FOK"
 --> Assuming no erosion, the OSL-DPs of individual samples were fitted using the FOM to obtain the depth of half saturation (DHS) and grouping.
